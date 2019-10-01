@@ -1,8 +1,8 @@
 # IntroductionTerminalD14
-Compte rendu de l'introduction au terminal
+Au cours de cette matinée, nous avons appris à être des petits hackeurs malins. Sur mac, nous avons utilisé le terminal, et sur PC, git bash. C'est super chouette, j'adore, c'est très utile.
 
 
-Mathilde, Léo, Léontine : 
+Mathilde, Léo, Léontine, JB : 
 
 # *COURS > le Terminal*
 
