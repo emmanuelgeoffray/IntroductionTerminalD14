@@ -30,9 +30,11 @@ cd + première lettre du document + tab = quick select du fichier
 -![](https://i.imgur.com/ILLn4bZ.gif)
 
 
-* **Les trucs en CAT (catenate)**  
-cat = affiche les dossiers précédents  
-cat .bash_history = Affiche les recherches précédentes  
+
+* **Les trucs en CAT (catenate)**
+cat = affiche les dossiers précédents
+cat .bash_history = Affiche les recherches précédentes
+
 
 
 ![](https://i.imgur.com/Nnc8AJQ.png)
