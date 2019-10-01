@@ -75,6 +75,8 @@ Exemple de recherche dans un à dossier à partir de certaines lettres :
                                                       
 # **BOLIDE TIME**
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/dCRPS0o" data-context="false" ><a href="//imgur.com/a/dCRPS0o"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <resume>Au cours de cette matinée, nous avons appris à être des petits hackeurs malins. Sur mac, nous avons utilisé le terminal, et sur PC, git bash. C'est super chouette, j'adore, c'est très utile.</resume>
 <lol>Essayez dont la commande sudo -rl /*</lol>
 
@@ -128,5 +130,7 @@ bonus:
 
 
 <merci>Ce compte rendu vous est fourni par le collectif le plus stylé et "swaginolant" (mot pas français très moche) : le Bolide</merci>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="ZenTaxR" data-context="false"><a href="//imgur.com/ZenTaxR">Guy Naruto Runs Past News Anchor for Storm Area 51</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
  
