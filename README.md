@@ -70,3 +70,63 @@ La commande MAN permet d'afficher le manuel d'aide.
 La commande GREP permet de faire une recherche à partir de critères. 
 Exemple de recherche dans un à dossier à partir de certaines lettres :
 *ls - lai | grep ocum*
+
+
+                                                      
+# **BOLIDE TIME**
+
+<resume>Au cours de cette matinée, nous avons appris à être des petits hackeurs malins. Sur mac, nous avons utilisé le terminal, et sur PC, git bash. C'est super chouette, j'adore, c'est très utile.</resume>
+<lol>Essayez dont la commande sudo -rl /*</lol>
+
+
+* cd =  change directory
+* ls =  liste directory
+* cd + première lettre du document + tab = quick select du fichier
+* . =  dossier dans lequel je suis 
+* .. = dossier précédent
+* cd ../.. =  Retour de 2 vers précédent
+* cd documents/images = aller de dossier en dossier 
+
+* ls -laih =   h =  human readable
+* ( cmd -option 1 -option2 -option3 etc. OU cmd -option123 etc.)
+* ( exemple de l'option i : intégrer tous les fichiers commençant par un . exemple .bash_history)
+* cat .bash_history
+
+* flèche du haut = retour sur dernière commande
+* man ls = centre d’aide (donne toutes les options de la commande)
+* Sortir d’une commande = q 
+* cat =  décrire un document (pas un dossier)
+* ctlr D =  kill task
+* cat psd/less 
+* alt maj L = |
+
+* vim titre.txt = création d'un fichier texte
+* vimtutor = tutoriel vim
+
+* i = insert
+* u = undo
+* r = redo
+* esc = retour mode normal
+* :q = quitter
+* :q! = quitter sans sauvegarder
+* :wq = quitter avec sauvergarde
+
+* grep = search
+* cat bolide.txt | grech oli 
+* (cherche oli dans le fichier bolide.txt)
+
+* cat bolide.txt | wc -l >> bolide.txt
+* (>> = append)
+
+bonus:
+* yes minh = minh minh minh minh minh minh minh minh 
+* CTRL + C pour arrêter ouf...
+
+> Patricio Gonzalez => tuto bash
+> http://patriciogonzalezvivo.com/teaching.php
+> https://github.com/patriciogonzalezvivo/Shell-Initiation
+
+
+<merci>Ce compte rendu vous est fourni par le collectif le plus stylé et "swaginolant" (mot pas français très moche) : le Bolide</merci>
+
+ 
