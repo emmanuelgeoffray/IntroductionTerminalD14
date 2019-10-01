@@ -70,3 +70,9 @@ La commande MAN permet d'afficher le manuel d'aide.
 La commande GREP permet de faire une recherche à partir de critères. 
 Exemple de recherche dans un à dossier à partir de certaines lettres :
 *ls - lai | grep ocum*
+
+
+* **Important : 2CB le poisson**
+Il est en pleine forme et écoute attentivement ce cours. Dire qu'il va mourir bientôt c'est des *FAKE NEWS*
+
+ ![](https://i.imgur.com/mSBUURW.jpg)
