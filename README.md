@@ -26,6 +26,10 @@ cd + première lettre du document + tab = quick select du fichier
 .. = dossier précédent
 *Exemple = cd Documents, nous emmène au dossier Documents*
 
+
+-![](https://i.imgur.com/ILLn4bZ.gif)
+
+
 * **Les trucs en CAT (catenate)**
 cat = affiche les dossiers précédents
 cat bash_history = Affiche les recherches précédentes
