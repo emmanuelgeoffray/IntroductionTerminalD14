@@ -6,11 +6,15 @@ Mathilde, Léo, Léontine :
 
 # *COURS > le Terminal*
 
-q = quit 
-d = supprimer
-.. = retour à la commande précédente
-:w = sauvegarder
-:q = quitter le terminal
+* cd =  change directory
+* ls =  liste directory
+* cd + première lettre du document + tab = quick select du fichier
+* . =  dossier dans lequel je suis 
+* .. = dossier précédent
+* cd ../.. =  Retour de 2 vers précédent
+* cd documents/images = aller de dossier en dossier 
+* q = quit 
+
 
 * **Les trucs en LS (list directory contents)** **List in long format**
 ls = Liste des elements présents dans l'élément selectionné
@@ -20,8 +24,8 @@ ls -laih = Plus d'informations, human readable
 *La taille du dossier passe en Ko*
 ls-a = Liste des fichiers cachés
 
-     ![](https://i.imgur.com/4fbskQo.png)
 
+     ![](https://i.imgur.com/4fbskQo.png)
 
 
 * **Les trucs en CD (change directory)**
@@ -54,9 +58,11 @@ Dans le mode normal, on tape des commandes comme dans la console classique.
 
 *:w* = pour write, permet d'enregistrer le fichier.
 *:q* = pour quit, permet de quitter vim+revenir à la console.
+*:q!* = pour quit, permet de quitter vim+revenir à la console sans sauvegarder.
 *:wq* = pour write+quit fait les deux.
 
 Il y a un guide intégré dans vim, il faut entrer la commande *vimtutor*. Compter une vingtaine de minutes pour suivre l'intrégralité du guide.
+
 
  ![](https://i.imgur.com/Gqmdmb3.png)
 
@@ -72,7 +78,7 @@ Exemple de recherche dans un à dossier à partir de certaines lettres :
 *ls - lai | grep ocum*
 
 
-* **Important : 2CB le poisson**
+**Important : 2CB le poisson**
 Il est en pleine forme et écoute attentivement ce cours. Dire qu'il va mourir bientôt c'est des *FAKE NEWS*
 
  ![](https://i.imgur.com/mSBUURW.jpg)
