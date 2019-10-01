@@ -32,7 +32,7 @@ cd ../.. = Revenir de deux dossiers en arrière
 
 * **Les trucs en CAT (catenate)**
 cat = affiche les dossiers précédents
-cat bash_history = Affiche les recherches précédentes
+cat .bash_history = Affiche les recherches précédentes
 
 ![](https://i.imgur.com/Nnc8AJQ.png)
 
