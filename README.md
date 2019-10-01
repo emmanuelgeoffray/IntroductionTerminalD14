@@ -4,6 +4,8 @@ Tranquille,
 A vous,
 Bises<3
 
+Issou la chancla, test de mise à jour.
+
 # IntroductionTerminalD14
 Compte rendu de l'introduction au terminal
 
