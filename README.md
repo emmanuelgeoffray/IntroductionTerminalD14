@@ -1,20 +1,9 @@
 # IntroductionTerminalD14
 Au cours de cette matinée, nous avons appris à être des petits hackeurs malins. Sur mac, nous avons utilisé le terminal, et sur PC, git bash. C'est super chouette, j'adore, c'est très utile.
 
-
 Mathilde, Léo, Léontine, JB : 
 
 # *COURS > le Terminal*
-
-* cd =  change directory
-* ls =  liste directory
-* cd + première lettre du document + tab = quick select du fichier
-* . =  dossier dans lequel je suis 
-* .. = dossier précédent
-* cd ../.. =  Retour de 2 vers précédent
-* cd documents/images = aller de dossier en dossier 
-* q = quit 
-
 
 * **Les trucs en LS (list directory contents)** **List in long format**
 ls = Liste des elements présents dans l'élément selectionné
@@ -25,21 +14,24 @@ ls -laih = Plus d'informations, human readable
 ls-a = Liste des fichiers cachés
 
 
-     ![](https://i.imgur.com/4fbskQo.png)
+![](https://i.imgur.com/4fbskQo.png)
 
 
 * **Les trucs en CD (change directory)**
-CD = Change Directory, changer de dossier.
+cd = Change Directory, changer de dossier.
 cd .. = Revenir d'un dossier en arrière
 cd ../.. = Revenir de deux dossiers en arrière
+cd + première lettre du document + tab = quick select du fichier
+. =  dossier dans lequel je suis 
+.. = dossier précédent
 *Exemple = cd Documents, nous emmène au dossier Documents*
 
 * **Les trucs en CAT (catenate)**
 cat = affiche les dossiers précédents
 cat bash_history = Affiche les recherches précédentes
 
-![](https://i.imgur.com/Nnc8AJQ.png)
 
+![](https://i.imgur.com/Nnc8AJQ.png)
 
 
 * **Les trucs en VIM (Vi IMproved)**
@@ -64,7 +56,7 @@ Dans le mode normal, on tape des commandes comme dans la console classique.
 Il y a un guide intégré dans vim, il faut entrer la commande *vimtutor*. Compter une vingtaine de minutes pour suivre l'intrégralité du guide.
 
 
- ![](https://i.imgur.com/Gqmdmb3.png)
+![](https://i.imgur.com/Gqmdmb3.png)
 
 
 * **Les trucs en MAN (Manual)**
@@ -81,4 +73,4 @@ Exemple de recherche dans un à dossier à partir de certaines lettres :
 **Important : 2CB le poisson**
 Il est en pleine forme et écoute attentivement ce cours. Dire qu'il va mourir bientôt c'est des *FAKE NEWS*
 
- ![](https://i.imgur.com/mSBUURW.jpg)
+![](https://i.imgur.com/mSBUURW.jpg)
