@@ -1,3 +1,11 @@
+Cher journal, comment vas-tu ?
+Une minh,
+Tranquille,
+A vous,
+Bises<3
+
+Issou la chancla, test de mise à jour.
+
 # IntroductionTerminalD14
 Au cours de cette matinée, nous avons appris à être des petits hackeurs malins. Sur mac, nous avons utilisé le terminal, et sur PC, git bash. C'est super chouette, j'adore, c'est très utile.
 
