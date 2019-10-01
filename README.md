@@ -5,7 +5,7 @@ Mathilde, Léo, Léontine, JB :
 
 # *Cours sur le terminal*
 
-* **Les trucs en LS (list directory contents)** **List in long format**
+* **Les trucs en LS (list directory contents)** **List in long format**  
 ls = Liste des elements présents dans l'élément selectionné  
 ls-s = Plus lisible  
 ls -lai = Plus d'informations  
