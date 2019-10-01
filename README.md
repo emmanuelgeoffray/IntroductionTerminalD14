@@ -1,4 +1,7 @@
 # IntroductionTerminalD14
+<<<<<<< HEAD
+Compte rendu de l'introduction au terminal.
+=======
 Compte rendu de l'introduction au terminal
 
 
@@ -70,3 +73,4 @@ La commande MAN permet d'afficher le manuel d'aide.
 La commande GREP permet de faire une recherche à partir de critères. 
 Exemple de recherche dans un à dossier à partir de certaines lettres :
 *ls - lai | grep ocum*
+>>>>>>> upstream/master
