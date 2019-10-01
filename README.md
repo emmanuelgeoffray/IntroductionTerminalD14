@@ -131,5 +131,5 @@ bonus:
 
 <merci>Ce compte rendu vous est fourni par le collectif le plus stylé et "swaginolant" (mot pas français très moche) : le Bolide</merci>
 
-![](https://i.imgur.com/ZenTaxR.mp4)
+![](https://i.imgur.com/Ob0rlpx.gif)
 
