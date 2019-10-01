@@ -6,7 +6,7 @@ Mathilde, Léo, Léontine :
 
 # *COURS > le Terminal*
 
-q = quit 
+q = quitter
 d = supprimer
 .. = retour à la commande précédente
 :w = sauvegarder
