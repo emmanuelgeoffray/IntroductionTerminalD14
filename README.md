@@ -1,3 +1,9 @@
+Cher journal, comment vas-tu ?
+Une minh,
+Tranquille,
+A vous,
+Bises<3
+
 # IntroductionTerminalD14
 Compte rendu de l'introduction au terminal
 
